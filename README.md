@@ -1,0 +1,1 @@
+# Implementation-of-human-following-smart-trolley-with-product-scanning-using-IOT-technology
